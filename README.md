@@ -1,4 +1,4 @@
-# Oii galera, prazer, eu sou o Jolivan e sou um dev apaixonado por tecnologia e programação 🧑‍💻
+# Oii galera, prazer, eu sou o Jolivan e sou um dev 🧑‍💻
 
 Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, ideias e muita paixão por desenvolvimento de software. Sempre buscando aprender, evoluir e compartilhar conhecimentos. 🚀
 
