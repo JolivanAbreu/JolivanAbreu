@@ -27,6 +27,7 @@ Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, ideias e muita pa
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,nextjs,nodejs,tailwind,postgres,docker,aws,git&theme=dark" />
 </div>
 
 ---
