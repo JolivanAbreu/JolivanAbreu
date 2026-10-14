@@ -1,53 +1,41 @@
-# Oii galera, prazer, eu sou o Jolivan e sou um dev 🧑‍💻
+<h1 align="center">Olá, eu sou o Jolivan 👋</h1>
 
-Seja bem-vindo ao meu perfil! Aqui você encontrará projetos, ideias e muita paixão por desenvolvimento de software. Sempre buscando aprender, evoluir e compartilhar conhecimentos. 🚀
+<p align="center">
+  <b>Desenvolvedor Full-Stack</b> · Node.js · React · SQL<br/>
+  Construo sistemas web de ponta a ponta, da modelagem do banco ao deploy.
+</p>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JolivanAbreu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JolivanAbreu&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Linguagens mais usadas" />
-</div>
-
----
-
-## 💻 Tecnologias & Ferramentas
-<div align="left">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+<p align="center">
+  <a href="https://jolivanabreu.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/jolivan-abreu-teixeira-5a27961b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:suportetecnicojolivan@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
 
 ---
 
-## 🌐 Redes Sociais & Contato
-<div align="left">
-  <a href="https://www.linkedin.com/in/jolivan-abreu-teixeira-5a27961b0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="mailto:suportetecnicojolivan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://www.instagram.com/jolivan_teixeira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="35" alt="Instagram logo">
-  </a>
-</div>
+### 🧑‍💻 Sobre mim
+
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (UNIFAMETRO) e Técnico em Desenvolvimento de Sistemas (SENAI)
+- 🛠️ Atuo com **suporte de TI** e estou em transição para **desenvolvimento Full-Stack**
+- 🚀 Desenvolvo sistemas sob medida para pequenos negócios: **agendamento multi-tenant, PDV/comandas para restaurante e e-commerce**, com deploy no Railway
+- 🔒 Os projetos de clientes ficam em repositórios privados. Posso apresentar uma demonstração sob solicitação.
+
+### 🧰 Stack principal
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,tailwind,js,mysql,docker,git,github&theme=dark" alt="Stack principal" />
+</p>
+
+**Também já trabalhei com:** Sequelize · MariaDB · REST APIs · JWT · Java · C# / .NET · PHP · Python
+
+### 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Helpdesk System**](https://github.com/JolivanAbreu/Helpdesk-System) | Sistema de chamados de suporte de TI com autenticação JWT, perfis de acesso, interações e anexos | Node.js · Express · Sequelize · React · Tailwind |
+| [**School Management System**](https://github.com/JolivanAbreu/School-Management-System) | Gestão escolar com login, cadastro de alunos, turmas e disciplinas | PHP · MySQL · JavaScript |
+| [**Portfólio**](https://jolivanabreu.github.io/Portfolio/) | Meu portfólio profissional publicado no GitHub Pages ([código](https://github.com/JolivanAbreu/Portfolio)) | HTML · CSS · JavaScript |
+
+---
+
+<p align="center"><i>Aberto a oportunidades como Desenvolvedor Full-Stack / Back-end Júnior.</i></p>
