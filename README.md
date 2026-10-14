@@ -18,23 +18,25 @@
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (UNIFAMETRO) e Técnico em Desenvolvimento de Sistemas (SENAI)
 - 🛠️ Atuo com **suporte de TI** e estou em transição para **desenvolvimento Full-Stack**
 - 🚀 Desenvolvo sistemas sob medida para pequenos negócios: **agendamento multi-tenant, PDV/comandas para restaurante e e-commerce**, com deploy no Railway
-- 🔒 Os projetos de clientes ficam em repositórios privados. Posso apresentar uma demonstração sob solicitação.
+- 🔒 O código dos projetos comerciais é privado. Os repositórios `-showcase` descrevem cada um e trazem link de demonstração quando há.
 
 ### 🧰 Stack principal
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,tailwind,js,mysql,docker,git,github&theme=dark" alt="Stack principal" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,tailwind,js,postgres,mysql,docker,git&theme=dark" alt="Stack principal" />
 </p>
 
 **Também já trabalhei com:** Sequelize · MariaDB · REST APIs · JWT · Java · C# / .NET · PHP · Python
 
 ### 📌 Projetos em destaque
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**Helpdesk System**](https://github.com/JolivanAbreu/Helpdesk-System) | Sistema de chamados de suporte de TI com autenticação JWT, perfis de acesso, interações e anexos | Node.js · Express · Sequelize · React · Tailwind |
-| [**School Management System**](https://github.com/JolivanAbreu/School-Management-System) | Gestão escolar com login, cadastro de alunos, turmas e disciplinas | PHP · MySQL · JavaScript |
-| [**Portfólio**](https://jolivanabreu.github.io/Portfolio/) | Meu portfólio profissional publicado no GitHub Pages ([código](https://github.com/JolivanAbreu/Portfolio)) | HTML · CSS · JavaScript |
+| Projeto | Descrição | Stack | Demo |
+|---|---|---|---|
+| [**Belora**](https://github.com/JolivanAbreu/belora-showcase) | SaaS multi-tenant de agendamento para estética, com lembretes por WhatsApp e 2FA. **Em produção.** | Node.js · PostgreSQL · React | Sob solicitação |
+| [**ROTA**](https://github.com/JolivanAbreu/rota-ecommerce-showcase) | E-commerce de moda fitness com loja, painel e API integrados à Nuvemshop | Node.js · PostgreSQL · React | [Ver loja](https://rota-ecommerce.vercel.app) |
+| [**Casa do Norte**](https://github.com/JolivanAbreu/north-house-showcase) | Sistema de comandas, mesas e mercearia para restaurante | Node.js · MySQL · React | [Abrir demo](https://north-house-two.vercel.app) |
+| [**DropeLab**](https://github.com/JolivanAbreu/dropelab-showcase) | E-commerce de streetwear com pagamentos via Mercado Pago (cartão e Pix) | Node.js · PostgreSQL · React | [Ver loja](https://drope-lab.vercel.app) |
+| [**Helpdesk System**](https://github.com/JolivanAbreu/Helpdesk-System) | Sistema de chamados de suporte de TI com JWT, perfis de acesso e anexos (código aberto) | Node.js · Express · React | — |
 
 ---
 
